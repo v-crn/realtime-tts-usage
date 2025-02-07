@@ -1,4 +1,4 @@
-# realtime-tts
+# realtime-tts-usage
 
 This is a sample project to try out the following Python package "RealtimeTTS".
 
